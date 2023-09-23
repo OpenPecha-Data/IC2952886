@@ -1,0 +1,144 @@
+id: 655685252c814ce792be03d471e8b3fd
+annotation_type: Language
+revision: '00001'
+annotations:
+  3fffc05ec9054670bb6e260111abb622:
+    span:
+      start: 37
+      end: 153
+    language: en
+  31689d23477a4f0bb4fdc90aaba6e3c0:
+    span:
+      start: 192
+      end: 227
+    language: en
+  aa1721cba2954779be4365a7342ffa4b:
+    span:
+      start: 250
+      end: 1254
+    language: en
+  f993eec5ffb440dd8e896024b50b1c8d:
+    span:
+      start: 9961
+      end: 9994
+    language: en
+  cd9487d457224aadae2c45556bcfbf8b:
+    span:
+      start: 82462
+      end: 82491
+    language: en
+  ea6a20fb638643819d4e5e49c9645e62:
+    span:
+      start: 93754
+      end: 93807
+    language: en
+  afbeb81d5581485fa28e53e64d828c53:
+    span:
+      start: 97763
+      end: 97784
+    language: en
+  572791a2eafd418391a2d2576416d32f:
+    span:
+      start: 98802
+      end: 98826
+    language: sa-Deva
+  069b9d6a64c4479399c3dac8b045457a:
+    span:
+      start: 99563
+      end: 99588
+    language: sa-Deva
+  24cab7d19db9410696cf7281f97a13e5:
+    span:
+      start: 101744
+      end: 101764
+    language: en
+  e3fe45767eac4d5fa89c5a00ef28214b:
+    span:
+      start: 135452
+      end: 135473
+    language: en
+  a3eda2a08b824203aa19cf6469742e6b:
+    span:
+      start: 160483
+      end: 160528
+    language: sa-Deva
+  0aaa25eadab341369e342e16ad58e75d:
+    span:
+      start: 161631
+      end: 161675
+    language: sa-Deva
+  f59e5cb4d2c04104a5e452003a4de222:
+    span:
+      start: 162089
+      end: 162124
+    language: sa-Deva
+  d48d7aa135654e5eb54a622e8d3d3306:
+    span:
+      start: 162907
+      end: 162933
+    language: sa-Deva
+  42ca842c912947e1a6234b6982ba976d:
+    span:
+      start: 183875
+      end: 183900
+    language: en
+  6e70907091324a7da53879c424fa2883:
+    span:
+      start: 204607
+      end: 204631
+    language: sa-Deva
+  ae3387c8f0ce4553a8b6e3d64542e664:
+    span:
+      start: 213605
+      end: 213643
+    language: en
+  5042d0d8081d4ad8b5c854b635068091:
+    span:
+      start: 218698
+      end: 218724
+    language: en
+  055569b6ee5141679db35c3e575f9042:
+    span:
+      start: 229126
+      end: 229148
+    language: en
+  be20bdeb2e7c4fcfb2ca549151ca7f9b:
+    span:
+      start: 229317
+      end: 229346
+    language: sa-Deva
+  ac0dca5cc7e64b1ca6ec892648e85e35:
+    span:
+      start: 257652
+      end: 257673
+    language: en
+  9e1717d7efb447038b376cb02e113f4f:
+    span:
+      start: 258168
+      end: 258188
+    language: sa-Deva
+  4d5f8e60ce1e43b6866be67938131d03:
+    span:
+      start: 308886
+      end: 308906
+    language: sa-Deva
+  785f6583135e48be8544688dc7eb6d2c:
+    span:
+      start: 320881
+      end: 320907
+    language: en
+  fbf10dd4b1ea4dbc88c5c71dc017d062:
+    span:
+      start: 344431
+      end: 344452
+    language: sa-Deva
+  4c71f90ac5694beaaca13eecfa2ebb4f:
+    span:
+      start: 349347
+      end: 349370
+    language: en
+  2cf13fd271314fb0a8363cf250afbb9a:
+    span:
+      start: 374744
+      end: 374792
+    language: en

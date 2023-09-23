@@ -1,0 +1,99 @@
+id: 718f732536b645c0ab3c7e75f04f805e
+annotation_type: Language
+revision: '00001'
+annotations:
+  62e8864821e34cfeac291459b5e0ac90:
+    span:
+      start: 38
+      end: 151
+    language: en
+  bcdac54ef67e4dae8c83c4151de0a88f:
+    span:
+      start: 189
+      end: 222
+    language: en
+  6b00f6ffba0540b080aa190125fff2cf:
+    span:
+      start: 246
+      end: 1250
+    language: en
+  8462be2cecc64773aa51376e6737da31:
+    span:
+      start: 28410
+      end: 28466
+    language: en
+  506c4ad8c4f9470bb692e2264baed6f4:
+    span:
+      start: 28532
+      end: 28599
+    language: en
+  0e5f23c1e9544ac698bd83b72836c2b4:
+    span:
+      start: 162220
+      end: 162241
+    language: sa-Deva
+  2cc4e744c9fa41c088a98c84234a7ed1:
+    span:
+      start: 175136
+      end: 175170
+    language: sa-Deva
+  74f5de84573a4c1c92a1d0ab623b8516:
+    span:
+      start: 176207
+      end: 176227
+    language: sa-Deva
+  ddf458b745964cb68aa89fe9a7ebde9e:
+    span:
+      start: 196562
+      end: 196599
+    language: en
+  c0fb0258a15540789aa05bc41c7aa00e:
+    span:
+      start: 205509
+      end: 205553
+    language: sa-Deva
+  660645c777624596a2064a71750d5096:
+    span:
+      start: 276264
+      end: 276300
+    language: en
+  bf676004390744d5a2dd2335d526e63d:
+    span:
+      start: 276876
+      end: 276914
+    language: en
+  eedab3054a1e47889022a494459f5976:
+    span:
+      start: 342520
+      end: 342545
+    language: en
+  347ae7b3e976467fb9c4e027cfa2796c:
+    span:
+      start: 386585
+      end: 386605
+    language: en
+  0359c51fc7c8469d98c03f34a13e74a3:
+    span:
+      start: 413147
+      end: 413180
+    language: en
+  cb4286fb5e784fcd84ce77f22765f909:
+    span:
+      start: 422149
+      end: 422177
+    language: sa-Deva
+  61ac63bbc6e74ec29af8e3de8c868bf8:
+    span:
+      start: 433291
+      end: 433313
+    language: en
+  33c7e2ac4f054b88b6bf4cb33a0cd108:
+    span:
+      start: 457547
+      end: 457607
+    language: en
+  1b6785665d9e448dbd75f265394f75c7:
+    span:
+      start: 470047
+      end: 470083
+    language: en
